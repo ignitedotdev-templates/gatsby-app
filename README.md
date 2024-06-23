@@ -7,6 +7,20 @@
   Gatsby Minimal Starter
 </h1>
 
+
+# Deploy Config
+```bash
+# root directory
+leave empty
+
+# build command
+npm install && npm run build
+
+# build directory
+public
+```
+
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
